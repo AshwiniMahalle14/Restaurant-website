@@ -49,6 +49,8 @@ After submission, it displays a confirmation message:
 🎉 Your table is booked!
 The message disappears automatically after 5 seconds.
 
+Checked
+
 
 
 
